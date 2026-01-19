@@ -27,6 +27,7 @@ Higher monthly charges increase churn probability
 Random Forest achieved better prediction performance
 
 Visual Results:
+
 ![Churn Distribution](screenshots/churn_distribution.png)
 ![Churn by Contract](screenshots/churn_by_contract.png)
 ![Monthly Charges vs Churn](screenshots/monthly_charges_vs_churn.png)
