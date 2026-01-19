@@ -29,7 +29,7 @@ Random Forest achieved better prediction performance
 Visual Results:
 
 ![Churn Distribution](screenshots/churn_distribution.png)
-![Churn by Contract](screenshots/churn_by_contract.png)
+![Churn by Contract](screenshots/churn_by_contracts.png)
 ![Monthly Charges vs Churn](screenshots/monthly_charges_vs_churn.png)
 ![Churn by Internet Service](screenshots/churn_by_internet_service.png)
 ![Model Comparison](screenshots/model_comparison.png)
